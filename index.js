@@ -1,9 +1,9 @@
-const accordians = document.querySelectorAll(".accordian");
-accordians.forEach(accordian=>{
-     const icon = accordian.querySelector(".icon");
-     const answer = accordian.querySelector(".answer");
+const accordians = document.querySelectorAll(".accordion");
+accordians.forEach(accordion=>{
+     const icon = accordion.querySelector(".icon");
+     const answer = accordion.querySelector(".answer");
 
-     accordian.addEventListener('click',()=>{
+     accordion.addEventListener('click',()=>{
         // icon.classList.toggle('active');
         // answer.classList.toggle('active')
         if(icon.classList.contains('active')){

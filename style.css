@@ -7,12 +7,12 @@ body{
     /* cursor:help; */
 }
 
-.accordian{
+.accordion{
     background-color: aliceblue;
     padding: 4px 16px;
     margin-bottom: 16px;
     border-radius: 4px;
-    box-shadow: 2px 2px 30px plum;
+    box-shadow: 2px 2px 5px plum;
     cursor: pointer;
 }
 
