@@ -37,6 +37,6 @@ body{
     transition: max-height 0.5s
 }
 
-.answer.active{
+/* .answer.active{
     max-height: 200px;
-}
+} */
